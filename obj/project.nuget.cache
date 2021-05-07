@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "tE+dIufOc+kKohEYwtHEHGhAUZhNWk8KHqQa46DfEpo+Y9RAWw5uhZQGFm/boevjMqNNkFlOfAib/8ggQ/ELJQ==",
+  "dgSpecHash": "QyMStFLoYHTrgM+35t1v9tQuaSJP3V62//L8JOIeviQ+gcrkA66R7UnlOsMGdLlT+tXM51ZwQDLBjulYTmY1IA==",
   "success": true,
   "projectFilePath": "D:\\Development\\dotnet-rpg\\dotnet-rpg.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

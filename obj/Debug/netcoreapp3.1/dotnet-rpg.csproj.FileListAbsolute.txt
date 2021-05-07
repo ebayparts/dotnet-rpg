@@ -18,3 +18,6 @@ D:\Development\dotnet-rpg\obj\Debug\netcoreapp3.1\staticwebassets\dotnet-rpg.Sta
 D:\Development\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.dll
 D:\Development\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.pdb
 D:\Development\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.genruntimeconfig.cache
+D:\Development\dotnet-rpg\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Development\dotnet-rpg\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Development\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.csproj.CopyComplete
